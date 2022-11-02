@@ -1,2 +1,1 @@
-# xunit-examples
-.NET Unit Test Examples /w xUnit
+# .NET Unit Test Examples /w xUnit
